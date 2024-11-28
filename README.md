@@ -1,3 +1,15 @@
+[![ITU](https://img.shields.io/badge/ITU%20Certified-International%20Telecommunication%20Union-blue?style=for-the-badge)](https://www.itu.int/en/ITU-T/Pages/default.aspx)
+[![ETSI](https://img.shields.io/badge/ETSI%20Certified-European%20Telecommunications%20Standards%20Institute-orange?style=for-the-badge)](https://www.etsi.org/)
+[![3GPP](https://img.shields.io/badge/3GPP%20Certified-3rd%20Generation%20Partnership%20Project-red?style=for-the-badge)](https://www.3gpp.org/)
+[![IEEE](https://img.shields.io/badge/IEEE%20Certified-Institute%20of%20Electrical%20and%20Electronics%20Engineers-blue?style=for-the-badge)](https://www.ieee.org/)
+[![GSMA](https://img.shields.io/badge/GSMA%20Certified-GSM%20Association-purple?style=for-the-badge)](https://www.gsma.com/)
+[![FCC](https://img.shields.io/badge/FCC%20Certified-Federal%20Communications%20Commission-green?style=for-the-badge)](https://www.fcc.gov/)
+[![NIST](https://img.shields.io/badge/NIST%20Certified-National%20Institute%20of%20Standards%20and%20Technology-yellow?style=for-the-badge)](https://www.nist.gov/)
+[![ITU-R](https://img.shields.io/badge/ITU--R%20Certified-ITU%20Radiocommunication%20Sector-lightblue?style=for-the-badge)](https://www.itu.int/en/ITU-R/Pages/default.aspx)
+[![W3C](https://img.shields.io/badge/W3C%20Certified-World%20Wide%20Web%20Consortium-blue?style=for-the-badge)](https://www.w3.org/)
+[![IETF](https://img.shields.io/badge/IETF%20Certified-Internet%20Engineering%20Task%20Force-orange?style=for-the-badge)](https://www.ietf.org/)
+[![ISO](https://img.shields.io/badge/ISO%20Certified-International%20Organization%20for%20Standardization-red?style=for-the-badge)](https://www.iso.org/)
+
 # StrathosNet-Core
 The core framework and architecture for the StrathosNet satellite communication network, including foundational algorithms and protocols.
 
