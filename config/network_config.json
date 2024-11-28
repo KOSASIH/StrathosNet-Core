@@ -1,0 +1,47 @@
+{
+  "network": {
+    "subnet": "192.168.1.0/24",
+    "gateway": "192.168.1.1",
+    "dns": [
+      "8.8.8.8",
+      "8.8.4.4"
+    ],
+    "devices": [
+      {
+        "name": "Router",
+        "ip": "192.168.1.1",
+        "mac": "00:1A:2B:3C:4D:5E",
+        "type": "router"
+      },
+      {
+        "name": "Switch",
+        "ip": "192.168.1.2",
+        "mac": "00:1A:2B:3C:4D:5F",
+        "type": "switch"
+      },
+      {
+        "name": "Server",
+        "ip": "192.168.1.10",
+        "mac": "00:1A:2B:3C:4D:60",
+        "type": "server"
+      }
+    ],
+    "firewall": {
+      "enabled": true,
+      "rules": [
+        {
+          "action": "allow",
+          "protocol": "tcp",
+          "port": 80,
+          "source": "any"
+        },
+        {
+          "action": "deny",
+          "protocol": "tcp",
+          "port": 22,
+          "source": "192.168.1.0/24"
+        }
+      ]
+    }
+  }
+}
