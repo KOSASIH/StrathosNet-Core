@@ -20,6 +20,17 @@
 [![AAMI](https://img.shields.io/badge/AAMI%20Certified-Association%20for%20the%20Advancement%20of%20Medical%20Instrumentation-orange?style=for-the-badge)](https://www.aami.org/)
 [![IEEE 802](https://img.shields.io/badge/IEEE%20802%20Certified-IEEE%20Standards%20for%20Local%20Area%20Networks-red?style=for-the-badge)](https://standards.ieee.org/standard/802_1-2020.html)
 
+[![NASA Certified](https://img.shields.io/badge/NASA%20Certified-National%20Aeronautics%20and%20Space%20Administration-blue?style=for-the-badge )](https://www.nasa.gov/)
+[![ESA Certified](https://img.shields.io/badge/ESA%20Certified-European%20Space%20Agency-orange?style=for-the-badge)](https://www.esa.int/)
+[![ISRO Certified](https://img.shields.io/badge/ISRO%20Certified-Indian%20Space%20Research%20Organisation-red?style=for-the-badge)](https://www.isro.gov.in/)
+[![JAXA Certified](https://img.shields.io/badge/JAXA%20Certified-Japan%20Aerospace%20Exploration%20Agency-lightgreen?style=for-the-badge)](https://www.jaxa.jp/)
+[![CNSA Certified](https://img.shields.io/badge/CNSA%20Certified-China%20National%20Space%20Administration-purple?style=for-the-badge)](http://www.cnsa.gov.cn/)
+[![Roscosmos Certified](https://img.shields.io/badge/Roscosmos%20Certified-Russian%20Federal%20Space%20Agency-yellow?style=for-the-badge)](https://www.roscosmos.ru/)
+[![SpaceX Certified](https://img.shields.io/badge/SpaceX%20Certified-SpaceX-green?style=for-the-badge)](https://www.spacex.com/)
+[![Blue Origin Certified](https://img.shields.io/badge/Blue%20Origin%20Certified-Blue%20Origin-lightblue?style=for-the-badge)](https://www.blueorigin.com/)
+[![Northrop Grumman Certified](https://img.shields.io/badge/Northrop%20Grumman%20Certified-Northrop%20Grumman-orange?style=for-the-badge)](https://www.northropgrumman.com/)
+[![Lockheed Martin Certified](https://img.shields.io/badge/Lockheed%20Martin%20Certified-Lockheed%20Martin-red?style=for-the-badge)](https://www.lockheedmartin.com/)
+
 # StrathosNet-Core
 The core framework and architecture for the StrathosNet satellite communication network, including foundational algorithms and protocols.
 
