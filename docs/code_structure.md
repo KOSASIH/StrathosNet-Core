@@ -71,7 +71,7 @@ StrathosNet-Core/
 │       └── backup_data.sh
 │
 ├── config/
-│   │   ├── satellites.json
+│   ├── satellites.json
 │   ├── user_profiles.json
 │   ├── network_config.json
 │   ├── security_config.json
