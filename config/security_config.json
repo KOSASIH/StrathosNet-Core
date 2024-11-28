@@ -1,0 +1,36 @@
+{
+  "security": {
+    "encryption": {
+      "algorithm": "AES",
+      "key_size": 256,
+      "iv_size": 16
+    },
+    "authentication": {
+      "methods": [
+        {
+          "type": "OAuth2",
+          "provider": "Google",
+          "client_id": "YOUR_CLIENT_ID",
+          "client_secret":"YOUR_CLIENT_SECRET"
+        },
+        {
+          "type": "JWT",
+          "secret": "YOUR_JWT_SECRET",
+          "expiration": "1h"
+        }
+      ]
+    },
+    "access_control": {
+      "roles": [
+        {
+          "name": "admin",
+          "permissions": ["read", "write", "delete"]
+        },
+        {
+          "name": "user",
+          "permissions": ["read"]
+        }
+      ]
+    }
+  }
+}
