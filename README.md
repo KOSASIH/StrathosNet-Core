@@ -30,6 +30,18 @@
 [![Blue Origin Certified](https://img.shields.io/badge/Blue%20Origin%20Certified-Blue%20Origin-lightblue?style=for-the-badge)](https://www.blueorigin.com/)
 [![Northrop Grumman Certified](https://img.shields.io/badge/Northrop%20Grumman%20Certified-Northrop%20Grumman-orange?style=for-the-badge)](https://www.northropgrumman.com/)
 [![Lockheed Martin Certified](https://img.shields.io/badge/Lockheed%20Martin%20Certified-Lockheed%20Martin-red?style=for-the-badge)](https://www.lockheedmartin.com/)
+[![NASA JPL Certified](https://img.shields.io/badge/NASA%20JPL%20Certified-Jet%20Propulsion%20Laboratory-blue?style=for-the-badge)](https://www.jpl.nasa.gov/)
+[![ESA ESTEC Certified](https://img.shields.io/badge/ESA%20ESTEC%20Certified-European%20Space%20Research%20and%20Technology%20Centre-orange?style=for-the-badge)](https://www.esa.int/Our_Activities/Technology)
+[![CNSA Tiangong Certified](https://img.shields.io/badge/CNSA%20Tiangong%20Certified-Tiangong%20Space%20Station-red?style=for-the-badge)](http://www.cnsa.gov.cn/)
+[![Arianespace Certified](https://img.shields.io/badge/Arianespace%20Certified-Arianespace%20Launch%20Services-lightgreen?style=for-the-badge)](https://www.arianespace.com/)
+[![SpaceX Crew Certified](https://img.shields.io/badge/SpaceX%20Crew%20Certified-SpaceX%20Crew%20Dragon-purple?style=for-the-badge)](https://www.spacex.com/crew-dragon)
+[![NASA Artemis Certified](https://img.shields.io/badge/NASA%20Artemis%20Certified-Artemis%20Program-yellow?style=for-the-badge)](https://www.nasa.gov/specials/artemis/)
+[![ISRO Gaganyaan Certified](https://img.shields.io/badge/ISRO%20Gaganyaan%20Certified-Gaganyaan%20Mission-lightblue?style=for-the-badge)](https://www.isro.gov.in/gaganyaan)
+[![JAXA Hayabusa Certified](https://img.shields.io/badge/JAXA%20Hayabusa%20Certified-Hayabusa%20Mission-orange?style=for-the-badge)](https://www.jaxa.jp/projects/rockets/hayabusa/)
+[![NASA Mars Certified](https://img.shields.io/badge/NASA%20Mars%20Certified-Mars%20Exploration%20Program-green?style=for-the-badge)](https://mars.nasa.gov/)
+[![Roscosmos Soyuz Certified](https://img.shields.io/badge/Roscosmos%20Soyuz%20Certified-Soyuz%20Program-lightgreen?style=for-the-badge)](https://www.roscosmos.ru/)
+[![Northrop Grumman Cygnus Certified](https://img.shields.io/badge/Northrop%20Grumman%20Cygnus%20Certified-Cygnus%20Spacecraft-blue?style=for-the-badge)](https://www.northropgrumman.com/space/cygnus/)
+[![NASA SLS Certified](https://img.shields.io/badge/NASA%20SLS%20Certified-Space%20Launch%20System-orange?style=for-the-badge)](https://www.nasa.gov/exploration/systems/sls/index.html)
 
 # StrathosNet-Core
 The core framework and architecture for the StrathosNet satellite communication network, including foundational algorithms and protocols.
