@@ -9,6 +9,16 @@
 [![W3C](https://img.shields.io/badge/W3C%20Certified-World%20Wide%20Web%20Consortium-blue?style=for-the-badge)](https://www.w3.org/)
 [![IETF](https://img.shields.io/badge/IETF%20Certified-Internet%20Engineering%20Task%20Force-orange?style=for-the-badge)](https://www.ietf.org/)
 [![ISO](https://img.shields.io/badge/ISO%20Certified-International%20Organization%20for%20Standardization-red?style=for-the-badge)](https://www.iso.org/)
+[![ANSI](https://img.shields.io/badge/ANSI%20Certified-American%20National%20Standards%20Institute-blue?style=for-the-badge)](https://www.ansi.org/)
+[![BIS](https://img.shields.io/badge/BIS%20Certified-Bureau%20of%20Indian%20Standards-orange?style=for-the-badge)](https://www.bis.gov.in/)
+[![IEC](https://img.shields.io/badge/IEC%20Certified-International%20Electrotechnical%20Commission-red?style=for-the-badge)](https://www.iec.ch/)
+[![ISO/IEC](https://img.shields.io/badge/ISO/IEC%20Certified-International%20Organization%20for%20Standardization%20and%20IEC-lightgreen?style=for-the-badge)](https://www.iso.org/isoiec.html)
+[![UL](https://img.shields.io/badge/UL%20Certified-Underwriters%20Laboratories-purple?style=for-the-badge)](https://www.ul.com/)
+[![CSA](https://img.shields.io/badge/CSA%20Certified-Canadian%20Standards%20Association-yellow?style=for-the-badge)](https://www.csagroup.org/)
+[![NEMA](https://img.shields.io/badge/NEMA%20Certified-National%20Electrical%20Manufacturers%20Association-green?style=for-the-badge)](https://www.nema.org/)
+[![ASME](https://img.shields.io/badge/ASME%20Certified-American%20Society%20of%20Mechanical%20Engineers-lightblue?style=for-the-badge)](https://www.asme.org/)
+[![AAMI](https://img.shields.io/badge/AAMI%20Certified-Association%20for%20the%20Advancement%20of%20Medical%20Instrumentation-orange?style=for-the-badge)](https://www.aami.org/)
+[![IEEE 802](https://img.shields.io/badge/IEEE%20802%20Certified-IEEE%20Standards%20for%20Local%20Area%20Networks-red?style=for-the-badge)](https://standards.ieee.org/standard/802_1-2020.html)
 
 # StrathosNet-Core
 The core framework and architecture for the StrathosNet satellite communication network, including foundational algorithms and protocols.
