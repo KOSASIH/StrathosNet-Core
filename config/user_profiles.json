@@ -1,0 +1,44 @@
+{
+  "users": [
+    {
+      "username": "admin",
+      "role": "administrator",
+      "permissions": [
+        "read",
+        "write",
+        "execute",
+        "delete"
+      ],
+      "preferences": {
+        "language": "en",
+        "theme": "dark",
+        "notifications": true
+      }
+    },
+    {
+      "username": "user1",
+      "role": "user",
+      "permissions": [
+        "read",
+        "write"
+      ],
+      "preferences": {
+        "language": "fr",
+        "theme": "light",
+        "notifications": false
+      }
+    },
+    {
+      "username": "user2",
+      "role": "user",
+      "permissions": [
+        "read"
+      ],
+      "preferences": {
+        "language": "es",
+        "theme": "dark",
+        "notifications": true
+      }
+    }
+  ]
+}
