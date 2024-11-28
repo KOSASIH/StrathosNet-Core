@@ -1,0 +1,42 @@
+{
+  "satellites": [
+    {
+      "id": "SAT-001",
+      "name": "Alpha",
+      "orbit": "Geostationary",
+      "position": {
+        "longitude": -75.0,
+        "latitude": 0.0
+      },
+      "bandwidth": {
+        "downlink": "500 Mbps",
+        "uplink": "200 Mbps"
+      },
+      "status": "active",
+      "last_maintenance": "2023-01-15",
+      "payload": {
+        "type": "communication",
+        "capacity": "1000 concurrent users"
+      }
+    },
+    {
+      "id": "SAT-002",
+      "name": "Beta",
+      "orbit": "Low Earth Orbit",
+      "position": {
+        "longitude": 30.0,
+        "latitude": 10.0
+      },
+      "bandwidth": {
+        "downlink": "300 Mbps",
+        "uplink": "150 Mbps"
+      },
+      "status": "active",
+      "last_maintenance": "2023-03-20",
+      "payload": {
+        "type": "imaging",
+        "resolution": "10 cm"
+      }
+    }
+  ]
+}
