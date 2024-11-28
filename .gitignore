@@ -1,2 +1,91 @@
-# Google App Engine generated folder
-appengine-generated/
+# Java build files
+target/
+*.class
+*.jar
+*.war
+*.ear
+*.db
+
+# Maven files
+.mvn/
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+pom.xml.next
+
+# IDE files
+.idea/
+*.iml
+*.ipr
+*.iws
+*.class
+*.log
+
+# Eclipse files
+.classpath
+.project
+.settings/
+
+# IntelliJ IDEA files
+out/
+*.iml
+*.ipr
+*.iws
+.idea/
+
+# Python files
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.egg-info/
+dist/
+build/
+*.whl
+
+# Virtual environment
+venv/
+env/
+ENV/
+env.bak/
+venv.bak/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Logs
+*.log
+
+# Configuration files
+config/*.json
+config/*.properties
+
+# Sensitive files
+*.key
+*.pem
+*.crt
+*.p12
+*.pfx
+
+# Backup files
+*~
+*.bak
+*.swp
+
+# OS generated files
+.DS_Store
+Thumbs.db
+ehthumbs.db
+Icon?
+Desktop.ini
+
+# Other files
+*.tmp
+*.temp
+*.orig
+*.out
+*.cache
+*.pid
+*.seed
+*.sublime-workspace
+*.sublime-project
