@@ -11,7 +11,7 @@ The architecture of StrathosNet is designed to provide a scalable, efficient, an
 - **Security Framework:** Ensures secure communication through encryption and authentication.
 
 ## System Diagram
-![Architecture Diagram](StrathosNet-Core_diagram.jpeg)
+![Architecture Diagram](StrathosNet-diagram.jpeg)
 
 ## Data Flow
 1. User requests are processed by the User Manager.
